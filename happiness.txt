@@ -6,4 +6,6 @@ oti nane grafoume edw
 
 kai mia allagi edw na exoume
 
+<<<<<<< HEAD
 kai edw mia allagi gia to conflict - nai alla edw theloume
+
